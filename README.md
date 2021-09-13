@@ -1,4 +1,5 @@
 # NeuroStartUp
+<link href="styles/style.css" rel="stylesheet" type="text/css">
 
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 
@@ -8,3 +9,18 @@
 * Высокая точность поиска
 * Высокая скорость поиска
 * Низкая цена
+
+
+```
+Мы на столько крутые, что уже успели поработать со следующими команиями:
+
+ООО «Рога и копыта»
+Издательство «Читый лист»
+Космопорт «Черезтерновый Кзвёздный»
+Дизайн-студия имени Слишком Известного Персонажа
+Ниже пример кода из нашего приложения:
+
+.selector {
+  font-family: "Awesome", Arial, sans-serif;
+  color: red;
+}
